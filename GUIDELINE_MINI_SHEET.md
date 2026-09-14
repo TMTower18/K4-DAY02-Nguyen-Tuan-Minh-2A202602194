@@ -79,4 +79,4 @@ Hoàn thành trước khi xem bài của người khác hoặc bộ nhãn tham c
 - [x] Đã hoàn thành ba tình huống trước khi xem nguồn đối chiếu.
 - [x] Nếu làm theo cặp, hai người đã xuất bài độc lập trước khi trao đổi.
 - [x] Nếu làm cá nhân, bài riêng đã được kiểm trước khi nhận bộ tham chiếu.
-- [x] Số vật thể thực tế: 135 — 40–60 là mục tiêu khối lượng, không phải điểm cắt.
+- [x] Số vật thể thực tế: 136 — 40–60 là mục tiêu khối lượng, không phải điểm cắt.
